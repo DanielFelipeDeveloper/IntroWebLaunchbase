@@ -1,4 +1,5 @@
-Cálculo IMC - Índice de Massa Corpórea
+// Desafio 1-1
+// Cálculo IMC - Índice de Massa Corpórea
 
 const nome = "Daniel"
 const peso = 62
